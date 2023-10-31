@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Fraud Detection Project
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This section contains details for Fraud Detection model.
 
 ## Header 2
 
